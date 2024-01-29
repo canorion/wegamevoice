@@ -1,7 +1,9 @@
-fastapi 
-uvicorn 
-librosa 
-numpy 
-scipy
+fastapi
 python-multipart
+uvicorn
+numpy
 pydub
+pytz
+scipy
+tensorflow
+tensorflow-hub
